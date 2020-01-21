@@ -1,8 +1,8 @@
-# hello-world
+# MultiApplication1
 
 ## Project setup
 ```
-yarn install
+yarn install or npm install
 ```
 
 ### Compiles and hot-reloads for development
